@@ -1,12 +1,11 @@
 # diseases predection python App
 ## python kivy app for diseases prediction using ML
 ### Test Page
-<p>
- VIshnu12Vk/project_python/assets/118201211/2c231c81-39b8-42a4-8ed1-4c60910b8f43)
-</p>
+
+![mldoctor](https://github.com/VIshnu12Vk/project_python/assets/118201211/bd3a5179-07a7-489b-ae0f-91e35f1bd337)
+
+
 ### Test Result
-<p>
-  VIshnu12Vk/project_python/assets/118201211/2699c8fa-f3b1-4e45-b7bf-0172c3aca23e)
-</p>
+
 
 
